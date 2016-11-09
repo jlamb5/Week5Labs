@@ -17,10 +17,7 @@ public class GuessANumber
       Scanner scan = new Scanner(System.in);
 
    
-
-      //while(replay != 'n')
-
-     
+           
       {
 
          int random = (int)(Math.random() * 10 + 1);
